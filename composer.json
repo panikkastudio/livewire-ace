@@ -1,7 +1,7 @@
 {
     "name": "panikka/livewire-ace",
     "description": "Ace editor for livewire",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "type": "library",
     "license": "MIT",
     "authors": [
